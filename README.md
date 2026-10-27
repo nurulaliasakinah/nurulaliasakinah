@@ -8,5 +8,5 @@ Saya baru belajar GitHub dan Markdown.
 - Bahasa Pengaturcaraan: Baru belajar GitHub
 
 ## Hubungi Saya
-- Email: alia@example.com
+- Email: nurulaliasakinah@graduate.utm.my
 - LinkedIn: linkedin.com/in/aliasakinah

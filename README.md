@@ -26,7 +26,5 @@ Welcome to my GitHub profile! I'm currently diving into the world of computer sc
 ---
 
 ## 🌐 Connect with Me
-
-## Hubungi Saya
 - Email: nurulaliasakinah@graduate.utm.my
 - LinkedIn: https://www.linkedin.com/in/nurul-alia-sakinah-mohd-ajis-52a906446?utm_source=share_via&utm_content=profile&utm_medium=member_io

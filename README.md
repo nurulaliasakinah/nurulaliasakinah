@@ -1,8 +1,8 @@
 # Hi, I'm Nurul Alia Sakinah 👋
 
-Welcome to my GitHub profile! I'm currently diving into the world of computer science and data engineering, eager to build, learn, and grow
+Welcome to my GitHub profile! I'm currently diving into the world of computer science and data engineering, eager to build, learn, and grow.
 
-🎓 I'm a first-year **Bachelor of Computer Science (Data Engineering) with Honours** student at Universiti Teknologi Malaysia (UTM) 
+🎓 I'm a first-year **Bachelor of Computer Science (Data Engineering) with Honours** student at Universiti Teknologi Malaysia (UTM).
 💻 Passionate about turning raw data into meaningful insights and exploring software development fundamentals.
 
 ---

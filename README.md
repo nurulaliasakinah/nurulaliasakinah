@@ -1,19 +1,19 @@
-# Hi, I'm Nurul Alia Sakinah 👋[span_0](start_span)[span_0](end_span)
+# Hi, I'm Nurul Alia Sakinah 👋
 
-Welcome to my GitHub profile! I'm currently diving into the world of computer science and data engineering, eager to build, learn, and grow[span_1](start_span)[span_1](end_span).
+Welcome to my GitHub profile! I'm currently diving into the world of computer science and data engineering, eager to build, learn, and grow
 
-🎓 I'm a first-year **Bachelor of Computer Science (Data Engineering) with Honours** student at Universiti Teknologi Malaysia (UTM)[span_2](start_span)[span_2](end_span).  
+🎓 I'm a first-year **Bachelor of Computer Science (Data Engineering) with Honours** student at Universiti Teknologi Malaysia (UTM) 
 💻 Passionate about turning raw data into meaningful insights and exploring software development fundamentals.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 **Studying:** Data Engineering at Universiti Teknologi Malaysia (UTM)[span_3](start_span)[span_3](end_span)
-* 🌱 **Currently learning:** Programming fundamentals, data structures, and database concepts[span_4](start_span)[span_4](end_span)
-* 💡 **Interested in:** Data pipelines, analytics, and software engineering[span_5](start_span)[span_5](end_span)
-* 🎯 **My goal:** To build a strong technical foundation and create solutions that make working with data seamless[span_6](start_span)[span_6](end_span)
-* ✨ **Always open to:** Collaborating on projects and learning new technologies[span_7](start_span)[span_7](end_span)
+* 🎓 **Studying:** Data Engineering at Universiti Teknologi Malaysia (UTM)
+* 🌱 **Currently learning:** Programming fundamentals, data structures, and database concept
+* 💡 **Interested in:** Data pipelines, analytics, and software engineering
+* 🎯 **My goal:** To build a strong technical foundation and create solutions that make working with data seamless
+* ✨ **Always open to:** Collaborating on projects and learning new technologies
 
 ---
 
